@@ -1,0 +1,12 @@
+:root {
+  --primary-color: #c00909;
+  --secondary-color: #0d21d6;
+}
+
+.head {
+  color: var(--primary-color);
+}
+
+.para {
+  color: var(--secondary-color);
+}
